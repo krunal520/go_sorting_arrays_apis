@@ -12,9 +12,10 @@ This project implements a Go server with two endpoints for sorting arrays sequen
 ## API working Screenshots
 
 - http://localhost:8000/process-single
-
+![Screenshot (321)](https://github.com/krunal520/go_sorting_arrays_apis/assets/82266514/926902be-7591-4a82-968e-217939c8e4aa)
 
 - http://localhost:8000/process-concurrent
+![Screenshot (324)](https://github.com/krunal520/go_sorting_arrays_apis/assets/82266514/cf1c012c-4771-4461-936a-d2aa9ccab44b)
 
 
 ## Getting Started
